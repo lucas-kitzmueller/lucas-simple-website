@@ -7,11 +7,17 @@ html {
 
 #id1 {
 	  text-align: right;
-	  font-size: 5px;
+	  font-size: 7px;
 }
 
 p,h1 {
   color: purple;
+}
+
+.class-center{
+  text-align: center;
+  font-size: 13px;
+  color: darkgrey; 
 }
 
 #apple-stock-chart .axis path,
